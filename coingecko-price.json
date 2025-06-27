@@ -1,5 +1,9 @@
 {
   "tether-usd": {
-    "usd": 1.00
+    "usd": 1.50,
+    "usd_market_cap": 15000000,
+    "usd_24h_vol": 500000,
+    "usd_24h_change": 5.25,
+    "last_updated_at": 1719493200
   }
 }
